@@ -83,10 +83,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 - Some certain data types were changed to values in the data source.
 
 **Step 3:**
-- Data derived from an Excel merged cell is changed to value in the data source.
-
-**Step 4:**				
-- Data is ignored and not included as part of your data source.					
+- Data derived from an Excel merged cell is changed to value in the data source.				
  					
 
 
@@ -112,14 +109,13 @@ I arrived at a report with a single dashboard consisting of different visuals su
 
 The dashboard conveys information about the following key areas:
 
-- country with the most index power
-- country with the highest railway infrastructure coverage
-- country with the highest budget allocated by the country for defense and military expenditures.
-- country with the most energy self-sufficiency
-- continent with the most Aircraft strength compared to other continents.
-- The most populated continent
-- country with the most active military personnel compared to other countries.
-  
+- highest happiness score within all countries
+- highest overall GDP per capita within all countries
+- country with the highest average healthy life expectancy to live.
+- country highest average social support
+- continent highest average perception of corruption.
+- most populated continent
+- trend between the freedom and social support of all countries
 
 
 

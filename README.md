@@ -1,21 +1,10 @@
 # Dahel_World_Happiness_Analyasis_Internship
 Dahel Consultant and Techies Internship: This is a project that entails the analysis of the World Happiness.
-(*The picture below is gotten from  Website*). 
+(*The picture below is gotten from Medium Website*). 
 
 
 
 ![image](https://github.com/RemedyData/Dahel_World_Happiness_Analyasis_Internship/assets/137626163/7551d61e-a2e7-4345-a6e3-c45549ca0225)
-Medium
-
-
-
-
-
-
-![image](https://github.com/RemedyData/Dahel_World_Happiness_Analyasis_Internship/assets/137626163/1e66fb83-0595-4285-b370-21509ae9f752)
-Delivering Happiness Blog
-
-
 
 
 

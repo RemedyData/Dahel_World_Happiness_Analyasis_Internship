@@ -127,7 +127,7 @@ then Iceland.
 
 • Hong Kong S.A.R of China has the highest Avg. healthy Life expectancy to live.
 
-• Switzerland has the highest Avg. Social Support and Singapore has the highest Avg. Perception
+• Switzerland has the highest average social support and Singapore has the highest average Perception
 of corruption.
 
 • There is a trend between the Freedom and Social Support of all countries used in this analysis.
